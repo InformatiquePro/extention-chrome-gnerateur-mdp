@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @InformatiquePro
+- (sorry for the English, I speak French)
+- Je suis une personne qui aime Linux
+- Et voila...
