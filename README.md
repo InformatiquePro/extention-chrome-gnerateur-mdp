@@ -2,7 +2,7 @@
 - (sorry for the English, I speak French)
 - Voila mon extention chrome.
 - Je ne l'ai pas publier dans le chrome web store car j'ai pas envi de payer 5€
-- Pour l'installer, c'est très simple : taper chrome://extensions/ dans la barre de recherche et activer le mode développer : ![image](https://github.com/InformatiquePro/extention-chrome-gnerateur-mdp/assets/161227509/0d4f3117-7efb-4975-bddd-a911a89bb7a4)
+- Pour l'installer, c'est très simple : taper chrome://extensions/ dans la barre de recherche et activer le mode déveloper : ![image](https://github.com/InformatiquePro/extention-chrome-gnerateur-mdp/assets/161227509/0d4f3117-7efb-4975-bddd-a911a89bb7a4)
 
 Ensuite, télécharger les fichiers du dépot puis extraire les fichier dans un dossier qui s'appelle (par exemple) mdp-generation dans documents.
 
