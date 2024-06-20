@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+  }
+  
+  #generateButton {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #generateButton:hover {
+    background-color: darkblue;
+  }
+  
+  #passwordOutput {
+    margin-top: 20px;
+    font-weight: bold;
+    word-break: break-all;
+  }
+  

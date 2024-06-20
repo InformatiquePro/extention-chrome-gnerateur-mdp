@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "GENARATEUR DE MOT DE PASSE",
+    "version": "1.0",
+    "description": "Extensions open-source pour générer des mots de passes forts ! Déveloper par InformatiquePro. Crédit logo : Vectoricons",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "securite.png",
+        "48": "securite.png",
+        "128": "securite.png"
+      }
+    },
+    "icons": {
+      "16": "securite.png",
+      "48": "securite.png",
+      "128": "securite.png"
+    },
+    "permissions": []
+  }
+  
