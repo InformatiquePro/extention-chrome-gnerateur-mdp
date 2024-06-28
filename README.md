@@ -13,7 +13,7 @@ Ensuite vous verez l'extensions : ![image](https://github.com/InformatiquePro/ex
 
 Et voila, l'extensions est installé !!
 -------
-Pour l'utiliser, séléctionner la pièce de puzzle den haut à droite : ![image](https://github.com/InformatiquePro/extention-chrome-gnerateur-mdp/assets/161227509/d4499d51-a52a-42b6-b3d5-4c5a8e587817)
+Pour l'utiliser, séléctionner la pièce de puzzle en haut à droite : ![image](https://github.com/InformatiquePro/extention-chrome-gnerateur-mdp/assets/161227509/d4499d51-a52a-42b6-b3d5-4c5a8e587817)
 Séléctionner ensuite GENERATEUR DE MOT DE PASSE FORT et l'extensions se lancera !
 
 
